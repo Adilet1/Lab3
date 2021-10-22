@@ -1,0 +1,23 @@
+h2{
+    font-family: cursive;
+    font-weight: bold;
+}
+p{
+    font-family: serif;
+}
+body{
+    background-color: yellow;
+}
+.con1{
+    margin-top: 200px;
+}
+.img-thumbnail{
+    margin-top: -50px;
+}
+.dis img{
+    width: 60px;
+    height: 60px;
+}
+a{
+    text-decoration: none;
+}
